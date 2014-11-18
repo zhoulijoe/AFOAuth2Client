@@ -1,5 +1,9 @@
 # OSX
 .DS_Store
 
-# Appcode
+# IDE
 .idea
+DerivedData
+
+# Project file
+xcuserdata
